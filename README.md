@@ -18,4 +18,5 @@ Analyzing bank account balance for a sample of customers in a bank and building 
 
 
 <h5>Case Study 5 – Predicting Income Classes</h5>
+
 Predicting the income class for a population as less than $50k or more based on their demographic data, given a sample of 30,000 people.
