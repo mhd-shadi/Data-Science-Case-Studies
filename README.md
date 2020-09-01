@@ -1,5 +1,5 @@
 # Data-Science-Case-Studies
-Five case studies in data science utilizing analysis, statistics, regression, classification, and recommendation systems.
+<h3>Five case studies in data science utilizing analysis, statistics, regression, classification, and recommendation systems.</h3>
 
 Case Study 1 – HR
 Analyzing a company’s payrolls data over 4 years.
